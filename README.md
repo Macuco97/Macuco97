@@ -6,7 +6,7 @@ Atualmente trabalho com programação em projeto particulares com desenvolviment
 Caso queria um contator profissional, fique à vontade para contatar-me por e-mail ou linkedin. 
 
 Email: rapha-sm2015@hotmail.com </br>
-LinkedIn: [https://www.linkedin.com/in/raphaelmotta97/](url)
+LinkedIn:https://www.linkedin.com/in/raphaelmotta97/
 
 
 <!--
