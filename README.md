@@ -1,4 +1,13 @@
-### Hi there 👋
+### Olá a todos 👋!
+
+Me chamo Raphael e sou apaixoxando por qualquer coisa que possa transformar nossa vida melhor e mais produtiva. 
+Atualmente trabalho com programação em projeto particulares com desenvolvimento web e estou a procura de novos desafios. 
+
+Caso queria um contator profissional, fique à vontade para contatar-me por e-mail ou linkedin. 
+
+Email:[rapha-sm2015@hotmail.com](url)
+LinkedIn: [https://www.linkedin.com/in/raphaelmotta97/](url)
+
 
 <!--
 **Macuco97/Macuco97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
