@@ -9,7 +9,7 @@ Segue abaixo as tecnologias com qual eu trabalho:
 
 Estrutura e estilização: HTML, CSS, Bulma, Bootstrap, Reactstrap.
 Frontend; Javascript, React, Angular. 
-Backend: Javascript, NodeJs, ExpressJs, Next.js, Python, Django.
+Backend: Javascript, NodeJs, ExpressJs, Next.js, Python.
 Database: NoSQL, MongoDB.
 
 Email: rapha-sm2015@hotmail.com </br>
