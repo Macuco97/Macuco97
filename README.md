@@ -7,10 +7,10 @@ Caso queria um contator profissional, fique à vontade para contatar-me por e-ma
 
 Segue abaixo as tecnologias com qual eu trabalho:
 
-Estrutura e estilização: HTML, CSS, Bulma, Bootstrap, Reactstrap.
-Frontend; Javascript, React, Angular. 
-Backend: Javascript, NodeJs, ExpressJs, Next.js, Python.
-Database: NoSQL, MongoDB.
+Estrutura e estilização: HTML, CSS, Bulma, Bootstrap.
+Frontend; Javascript, React. 
+Backend: Javascript, NodeJs, Next.js.
+Database: MySQL, MongoDB.
 
 Email: rapha-sm2015@hotmail.com </br>
 LinkedIn:https://www.linkedin.com/in/raphaelmotta97/
