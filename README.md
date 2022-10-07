@@ -1,7 +1,8 @@
 ### Olá a todos 👋!
 
 Me chamo Raphael e sou apaixoxando por qualquer coisa que possa transformar nossa vida melhor e mais produtiva. 
-Atualmente trabalho com programação em projeto pessoais com desenvolvimento web e estou a procura de novos desafios. 
+Atualmente eu tenho dois anos de experiência com desenvolvimento Frontend com freelancer.
+ 
 
 Caso queria um contato profissional, fique à vontade para contatar-me por e-mail ou linkedin.
 
