@@ -1,17 +1,14 @@
 ### Olá a todos 👋!
 
 Me chamo Raphael e sou apaixoxando por qualquer coisa que possa transformar nossa vida melhor e mais produtiva. 
-Atualmente eu tenho dois anos de experiência como desenvolvimento Frontend com freelancer.
+Sou estudando de Tecnologia da Informação na UFF focando meu estudos principalmente na área de desenvolvimento web.
+
+Atualmente as áreas que eu mais possuo experiência são React, Javascript e Node. 
  
 
 Caso queria um contato profissional, fique à vontade para contatar-me por e-mail ou linkedin.
 
-Segue abaixo as tecnologias com qual eu trabalho:
 
-Estrutura e estilização: HTML, CSS, Tailwindcss, Bootstrap.
-Frontend; Javascript, React. 
-Backend: Javascript, NodeJs, Next.js.
-Database: MySQL, MongoDB.
 
 Email: rapha-sm2015@hotmail.com </br>
 LinkedIn:https://www.linkedin.com/in/raphaelsm/
